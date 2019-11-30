@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "337596031215",
+    "firebase_url": "https://appmaterialescolar.firebaseio.com",
+    "project_id": "appmaterialescolar",
+    "storage_bucket": "appmaterialescolar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337596031215:android:002d5aef9f972bf8623b1a",
+        "android_client_info": {
+          "package_name": "br.com.borges.app_material_escolar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337596031215-70n3rmgdvodh80323dg6ik6qubsuvqt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt6qPRFJXDu58Yj_xK7PjUZkTaVXLnM8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337596031215-70n3rmgdvodh80323dg6ik6qubsuvqt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
